@@ -19,7 +19,7 @@ Para utilizar esta biblioteca como seu próprio projeto, siga estas etapas:
 2. Clone este repositório para o seu ambiente de desenvolvimento local usando Git:
 
     ```
-    git clone https://github.com/seu-usuario/biblioteca-de-jogos-react-localstorage.git
+    git clone https://github.com/seu-usuario/biblioteca-de-jogos
     ```
 
 3. Navegue até o diretório do projeto:
